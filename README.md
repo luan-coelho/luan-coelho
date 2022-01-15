@@ -18,7 +18,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="www.linkedin.com/in/coelho-luan" target="_blank">
+<a href="https://www.linkedin.com/in/coelho-luan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </p>
