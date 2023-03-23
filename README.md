@@ -1,8 +1,3 @@
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/luan-coelho/91fb64fd3ed168d27f5f0d49d8a66c9c/raw/be9d791d49b864c697ac6060d4b97a36a6f52008/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luan Coêlho</h1>
-
-🔥 Early career backand developer, always looking for knowledge.
-
 ## &nbsp;Tech Stack
 
 <div style ="display: flex;">
